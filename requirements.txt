@@ -1,0 +1,13 @@
+# add your project requirements here, be sure to pin the versions
+pytest==7.2.2
+streamlit
+snscrape
+plotly
+nltk
+textblob
+gspread
+oauth2client
+gspread_dataframe
+matplotlib
+seaborn
+wordcloud
